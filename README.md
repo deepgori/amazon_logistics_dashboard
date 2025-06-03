@@ -19,7 +19,7 @@ This repository contains an interactive Power BI dashboard for analyzing Amazon 
 ## Overview
 
 The **Amazon Logistics Insights Dashboard** provides actionable visual analytics for Amazon order fulfillment and delivery operations. It is designed for operations managers, analysts, and e-commerce teams to optimize logistics, improve customer satisfaction, and make data-driven decisions.
-![amazon_dashboard](amazon_dashboard.png) 
+![amazon-dashboard](amazon-dashboard.png) 
 ---
 
 ## Features
